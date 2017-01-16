@@ -148,24 +148,48 @@
 <wire x1="2.5" y1="32" x2="0" y2="29.5" width="0.254" layer="20" curve="90"/>
 <wire x1="0" y1="29.5" x2="0" y2="2.5" width="0.254" layer="20"/>
 <wire x1="0" y1="2.5" x2="2.5" y2="0" width="0.254" layer="20" curve="90"/>
-<text x="28.75" y="29.75" size="0.8128" layer="21" font="vector" rot="R180">rev. 2.0</text>
-<text x="7" y="30.25" size="1.016" layer="21" font="vector">IN-12B controller breakout</text>
-<text x="2.75" y="1.25" size="0.6096" layer="21" font="vector">one</text>
-<text x="5.25" y="0.5" size="0.6096" layer="21" font="vector">two</text>
-<text x="7.5" y="1.25" size="0.6096" layer="21" font="vector">three</text>
-<text x="10.25" y="0.5" size="0.6096" layer="21" font="vector">four</text>
-<text x="12.75" y="1.25" size="0.6096" layer="21" font="vector">five</text>
-<text x="15.5" y="0.5" size="0.6096" layer="21" font="vector">six</text>
-<text x="17.5" y="1.25" size="0.6096" layer="21" font="vector">seven</text>
-<text x="20.25" y="0.5" size="0.6096" layer="21" font="vector">eight</text>
-<text x="23" y="1.25" size="0.6096" layer="21" font="vector">nine</text>
-<text x="25.5" y="0.5" size="0.6096" layer="21" font="vector">zero</text>
-<text x="27.25" y="1.25" size="0.6096" layer="21" font="vector">dot</text>
+<text x="28.75" y="29.75" size="0.8128" layer="21" font="vector" rot="R180">rev. 2.1</text>
+<text x="1.75" y="30.25" size="1.016" layer="21" font="vector">IN-12B Nixie controller breakout</text>
+<text x="1.75" y="1.25" size="0.6096" layer="21" font="vector">one</text>
+<text x="4" y="0.75" size="0.6096" layer="21" font="vector">two</text>
+<text x="6.25" y="1.25" size="0.6096" layer="21" font="vector">three</text>
+<text x="9" y="0.75" size="0.6096" layer="21" font="vector">four</text>
+<text x="11.75" y="1.25" size="0.6096" layer="21" font="vector">five</text>
+<text x="14.25" y="0.75" size="0.6096" layer="21" font="vector">six</text>
+<text x="16" y="1.25" size="0.6096" layer="21" font="vector">seven</text>
+<text x="19" y="0.75" size="0.6096" layer="21" font="vector">eight</text>
+<text x="21.75" y="1.25" size="0.6096" layer="21" font="vector">nine</text>
+<text x="24" y="0.75" size="0.6096" layer="21" font="vector">zero</text>
+<text x="27" y="1.25" size="0.6096" layer="21" font="vector">dot</text>
 <text x="20" y="7.5" size="0.6096" layer="22" font="vector" rot="MR0">R CATH</text>
-<text x="1.75" y="26.25" size="0.6096" layer="21" font="vector">GND</text>
+<text x="3" y="26.25" size="0.6096" layer="21" font="vector">GND</text>
 <text x="23.75" y="5.25" size="0.6096" layer="21" font="vector">HV IN</text>
-<text x="27" y="19.75" size="1.016" layer="21" font="vector" rot="R270">DANGER</text>
-<text x="28.5" y="22.5" size="1.016" layer="21" font="vector" rot="R270">HIGH VOLTAGE</text>
+<text x="1.25" y="20.5" size="1.4224" layer="21" font="vector" rot="R270">DANGER</text>
+<text x="27.75" y="24.25" size="1.4224" layer="21" font="vector" rot="R270">HIGH VOLTAGE</text>
+<text x="4.25" y="24.5" size="0.4064" layer="22" font="vector" rot="MR0">T4</text>
+<text x="16.25" y="23.5" size="0.4064" layer="22" font="vector" rot="MR0">R5</text>
+<text x="6" y="21.5" size="0.4064" layer="22" font="vector" rot="MR0">R4</text>
+<text x="6.5" y="16.75" size="0.4064" layer="22" font="vector" rot="MR0">R3</text>
+<text x="10.75" y="19.5" size="0.4064" layer="22" font="vector" rot="MR0">R1</text>
+<text x="6" y="11.75" size="0.4064" layer="22" font="vector" rot="MR0">R2</text>
+<text x="25.75" y="27.75" size="0.4064" layer="22" font="vector" rot="MR0">R6</text>
+<text x="25.75" y="24.25" size="0.4064" layer="22" font="vector" rot="MR0">R7</text>
+<text x="26" y="20.5" size="0.4064" layer="22" font="vector" rot="MR0">R8</text>
+<text x="26" y="17" size="0.4064" layer="22" font="vector" rot="MR0">R9</text>
+<text x="26" y="13.25" size="0.4064" layer="22" font="vector" rot="MR0">R0</text>
+<text x="14.75" y="15.5" size="0.4064" layer="22" font="vector" rot="MR0">R.</text>
+<text x="21" y="17.5" size="0.4064" layer="22" font="vector" rot="MR0">T9</text>
+<text x="21" y="13.75" size="0.4064" layer="22" font="vector" rot="MR0">T0</text>
+<text x="21" y="21" size="0.4064" layer="22" font="vector" rot="MR0">T8</text>
+<text x="21" y="24.75" size="0.4064" layer="22" font="vector" rot="MR0">T7</text>
+<text x="21" y="28.25" size="0.4064" layer="22" font="vector" rot="MR0">T6</text>
+<text x="13" y="24.75" size="0.4064" layer="22" font="vector" rot="MR0">T5</text>
+<text x="4.25" y="19.25" size="0.4064" layer="22" font="vector" rot="MR0">T3</text>
+<text x="4.25" y="15.5" size="0.4064" layer="22" font="vector" rot="MR0">T2</text>
+<text x="11.5" y="14.75" size="0.4064" layer="22" font="vector" rot="MR0">T1</text>
+<text x="14.75" y="13.25" size="0.4064" layer="22" font="vector" rot="MR0">T.</text>
+<text x="29.25" y="20.75" size="1.4224" layer="22" font="vector" rot="MR270">DANGER</text>
+<text x="2.25" y="24.25" size="1.4224" layer="22" font="vector" rot="MR270">HIGH VOLTAGE</text>
 </plain>
 <libraries>
 <library name="SparkFun-DiscreteSemi">
@@ -874,13 +898,15 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <signal name="FIVE">
 <contactref element="R5" pad="1"/>
 <contactref element="DIGITS" pad="5"/>
-<wire x1="16.8" y1="12.8" x2="16.8" y2="20.9" width="0.3048" layer="1"/>
-<via x="16.8" y="20.9" extent="1-16" drill="0.6" shape="octagon"/>
-<wire x1="16.8" y1="20.9" x2="16.8" y2="21.92" width="0.3048" layer="16"/>
-<wire x1="16.8" y1="21.92" x2="15.96" y2="22.76" width="0.3048" layer="16"/>
-<wire x1="16.8" y1="12.8" x2="15.5" y2="11.5" width="0.3048" layer="1"/>
-<wire x1="12.48" y1="3.32" x2="15.5" y2="5.25" width="0.3048" layer="1"/>
-<wire x1="15.5" y1="5.25" x2="15.5" y2="11.5" width="0.3048" layer="1"/>
+<via x="15.5" y="6.25" extent="1-16" drill="0.6" shape="octagon"/>
+<wire x1="15.5" y1="6.25" x2="15.5" y2="15" width="0.3048" layer="1"/>
+<wire x1="15.5" y1="15" x2="16.75" y2="16" width="0.3048" layer="1"/>
+<via x="16.75" y="16" extent="1-16" drill="0.6" shape="octagon"/>
+<wire x1="16.75" y1="16" x2="16.75" y2="22.01" width="0.3048" layer="16"/>
+<wire x1="16.75" y1="22.01" x2="15.96" y2="22.76" width="0.3048" layer="16"/>
+<wire x1="15.5" y1="6.25" x2="13.75" y2="6.25" width="0.254" layer="16"/>
+<wire x1="13.75" y1="6.25" x2="12.5" y2="5" width="0.254" layer="16"/>
+<wire x1="12.5" y1="5" x2="12.48" y2="3.32" width="0.254" layer="16"/>
 </signal>
 <signal name="SEVEN">
 <contactref element="R7" pad="1"/>
@@ -959,11 +985,16 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <signal name="DOT">
 <contactref element="DIGITS" pad="11"/>
 <contactref element="R11" pad="1"/>
-<wire x1="15.35" y1="14.75" x2="21.5" y2="8.75" width="0.3048" layer="16"/>
 <via x="28.75" y="5.5" extent="1-16" drill="0.6" shape="octagon"/>
 <wire x1="28.75" y1="5.5" x2="28.75" y2="3.32" width="0.3048" layer="1"/>
 <wire x1="28.75" y1="3.32" x2="27.72" y2="3.32" width="0.3048" layer="1"/>
-<wire x1="21.5" y1="8.75" x2="28.75" y2="8.75" width="0.3048" layer="16"/>
+<wire x1="15.35" y1="14.75" x2="16.75" y2="14.75" width="0.3048" layer="16"/>
+<wire x1="16.75" y1="14.75" x2="16.75" y2="12.75" width="0.3048" layer="16"/>
+<wire x1="16.75" y1="12.75" x2="17.25" y2="12.25" width="0.3048" layer="16"/>
+<wire x1="17.25" y1="12.25" x2="18.75" y2="12.25" width="0.3048" layer="16"/>
+<wire x1="18.75" y1="12.25" x2="19" y2="12" width="0.3048" layer="16"/>
+<wire x1="19" y1="12" x2="19" y2="8.75" width="0.3048" layer="16"/>
+<wire x1="19" y1="8.75" x2="28.75" y2="8.75" width="0.3048" layer="16"/>
 <wire x1="28.75" y1="8.75" x2="28.75" y2="5.5" width="0.3048" layer="16"/>
 </signal>
 <signal name="N$22">
